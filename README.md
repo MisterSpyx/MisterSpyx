@@ -1,5 +1,17 @@
 ### Hello Elite, It's [MisterSpy](https://www.facebook.com/007MrSpy/) 👋
 
+##  I'm not a professional Penetration Tester and Ethical Hacker.
+
+I'm passionate about finding vulnerabilities and securing systems. I specialize in network and web application penetration testing and ethical hacking. I enjoy working with different tools and techniques to find and exploit security flaws, and I'm always looking for new challenges and opportunities to learn.
+
+### Skills
+
+- Network and web application penetration testing
+- Ethical hacking
+- Vulnerability assessment and management
+- Security auditing and risk assessment
+- Network security and hardening
+- Incident response and disaster recovery
 
    <a target="_blank" href="https://www.instagram.com/moetazbrayek2//">
   <img align="left" alt="MoetazBrayek | Instagram" eight="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  /></a>
@@ -12,30 +24,14 @@
 </a>
   <br />                           
   <br />                      
-  Hi, I'm Mister Spy From Tunisia.  <br />
+  Hi, I'm Mister Spy .  <br />
+  ### Skills
 
-- 🔭 I’m currently working on making perfect backdoor <br />
-- 🌱 I’m currently learning how to earn money by sleeping <br />
-
-**Favorite Languages** <br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-
-
-
-
-
-
-
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MisterSpyx&show_icons=true&include_all_commits=true" alt="MisterSpy's github stats" />
+- Network and web application penetration testing
+- Ethical hacking
+- Vulnerability assessment and management
+- Security auditing and risk assessment
+- Network security and hardening
+- Incident response and disaster recovery
 
 
